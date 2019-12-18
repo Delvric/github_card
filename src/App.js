@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
-import {Button, Card, Icon, Image} from 'semantic-ui-react'
+import {Card, Icon, Image} from 'semantic-ui-react'
+import {Button} from 'semantic-ui-react'
 
 
 const github_user="http://api.github.com/users/Delvric"
